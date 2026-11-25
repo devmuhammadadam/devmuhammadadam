@@ -1,14 +1,15 @@
 # Hi, I'm Muhammad Adam 👋
 
-### Full-Stack Developer | Building Modern Web Applications
+### Frontend Developer | Building Modern Web Applications
 
-I'm a Full-Stack Developer passionate about building useful, scalable, and user-focused web applications.
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas into real products, exploring software engineering best practices, and continuously improving my skills to keep up with the evolving web development ecosystem.
+I enjoy turning ideas into functional products, writing clean and maintainable code, and creating intuitive user experiences. I also have practical exposure to backend integration and database technologies, allowing me to build complete web solutions.
 
-- 🚀 Focused on building modern full-stack applications.
-- 💻 Working with Next.js, React, TypeScript, and Supabase.
-- 🧠 Interested in software architecture, clean code, and problem-solving.
+- 💻 Focused on React, Next.js, TypeScript, and modern frontend development.
+- 🎨 Building responsive and accessible user interfaces with Tailwind CSS.
+- 🔗 Integrating frontend applications with APIs and backend services.
+- 🧠 Interested in software engineering, clean architecture, and problem-solving.
 - 🤖 Exploring how AI is shaping the future of software development.
 - 📍 Based in Egypt.
 
@@ -16,13 +17,13 @@ I enjoy turning ideas into real products, exploring software engineering best pr
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
 </p>
 
-### Backend & Database
+### Backend Integration & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres" alt="Backend and database technologies" />
@@ -31,14 +32,14 @@ I enjoy turning ideas into real products, exploring software engineering best pr
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,vscode" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Development tools" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-Explore my pinned repositories below to see some of the applications I've built.
+Here are some of my personal projects. Feel free to explore my pinned repositories to learn more about my work, technical skills, and development approach.
 
 ---
 
